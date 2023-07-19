@@ -13,6 +13,5 @@ OpenGL projects typically involve several technologies that work together to cre
 Overall, OpenGL project involves a range of technologies that work together to create a rich and immersive graphics experience.
 
 
-
-###Output:---
+#Output:---
 <img width="962" alt="image" src="https://github.com/hrabhinandan/KarnatakaFlagUsingOpengl/assets/96574240/c492855c-e4bd-4ea4-a531-67fb53cc6903">
